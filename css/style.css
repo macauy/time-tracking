@@ -213,7 +213,7 @@ main {
 
 	.card-content {
 		height: 200px;
-		padding: 26px;
+		padding: 29px;
 	}
 
 	.card-image-container {
@@ -222,7 +222,7 @@ main {
 
 	.card-time {
 		display: block;
-		margin-top: 2rem;
+		margin-top: 36px;
 	}
 
 	.card-time h2 {
