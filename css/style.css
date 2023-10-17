@@ -115,7 +115,7 @@ main {
 }
 
 .card-image-container img {
-	width: 78px;
+	width: 75px;
 	position: absolute;
 	right: 10px;
 	top: -8x;
@@ -213,7 +213,7 @@ main {
 
 	.card-content {
 		height: 200px;
-		padding: 29px;
+		padding: 26px;
 	}
 
 	.card-image-container {
